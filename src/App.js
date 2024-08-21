@@ -16,6 +16,7 @@ import {useDocTitle} from './components/CustomHook';
 import ScrollToTop from './components/ScrollToTop';
 import WebDevelopment from './pages/ourServices/webDevelopment';
 import AppDevelopment from './pages/ourServices/AppDevelopment';
+import DomainHosting from './pages/ourServices/DomainHosting';
 
 function App() {
   useEffect(() => {
@@ -44,6 +45,7 @@ function App() {
             <Route path="/get-demo" element={<DemoProduct />} /> 
             <Route path="/web-develop" element={<WebDevelopment />} /> 
             <Route path="/App-develop" element={<AppDevelopment />} /> 
+            <Route path="/Domain-Hoisting" element={<DomainHosting />} /> 
           </Routes>
         </ScrollToTop>
       </Router>
