@@ -57,7 +57,7 @@ const WebDevelopment = () => {
                         <div className="px-12" data-aos="fade-down" data-aos-delay="600">
                             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
                                 {/* Repeat this block for each reason */}
-                                <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:bg-red-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                                <div className="bg-gray-700 transition-all ease-in-out duration-400 overflow-hidden text-white hover:bg-red-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                     <div className="m-2 text-justify text-sm">
                                         <h2 className="font-semibold my-4 text-2xl text-center">Customized Solutions</h2>
                                         <p className="text-md font-medium">
@@ -75,7 +75,7 @@ const WebDevelopment = () => {
                                     </div>
                                 </div>
 
-                                <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:bg-red-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                                <div className="bg-gray-700 transition-all ease-in-out duration-400 overflow-hidden text-white hover:bg-red-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                     <div className="m-2 text-justify text-sm">
                                         <h2 className="font-semibold my-4 text-2xl text-center">Responsive Development</h2>
                                         <p className="text-md font-medium">
@@ -102,7 +102,7 @@ const WebDevelopment = () => {
                                     </div>
                                 </div>
 
-                                <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                                <div className="bg-gray-700 transition-all ease-in-out duration-400 overflow-hidden text-white hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                     <div className="m-2 text-justify text-sm">
                                         <h2 className="font-semibold my-4 text-2xl text-center">Transparent Communication</h2>
                                         <p className="text-md font-medium">
@@ -119,7 +119,7 @@ const WebDevelopment = () => {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                                <div className="bg-gray-700 transition-all ease-in-out duration-400 overflow-hidden text-white hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                     <div className="m-2 text-justify text-sm">
                                         <h2 className="font-semibold my-4 text-2xl text-center">Transparent Communication</h2>
                                         <p className="text-md font-medium">

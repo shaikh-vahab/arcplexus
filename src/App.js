@@ -15,6 +15,7 @@ import DemoProduct from './pages/DemoProduct';
 import {useDocTitle} from './components/CustomHook';
 import ScrollToTop from './components/ScrollToTop';
 import WebDevelopment from './pages/ourServices/webDevelopment';
+import AppDevelopment from './pages/ourServices/AppDevelopment';
 
 function App() {
   useEffect(() => {
@@ -42,6 +43,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/get-demo" element={<DemoProduct />} /> 
             <Route path="/web-develop" element={<WebDevelopment />} /> 
+            <Route path="/App-develop" element={<AppDevelopment />} /> 
           </Routes>
         </ScrollToTop>
       </Router>
